@@ -1,0 +1,22 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "Projeto inicial rodando um teste de node modules",
+  "main": "modulo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeviAragaoCB/Node_modules.git"
+  },
+  "author": "LACB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeviAragaoCB/Node_modules/issues"
+  },
+  "homepage": "https://github.com/LeviAragaoCB/Node_modules#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
